@@ -10,7 +10,9 @@ const HomePage = () => {
             <h1>Welcome to this really awesome site!</h1>
             <p>Stuff happens here. Want to check out stuff?</p>
             <button onClick={handleClick}>Click for Something Awesome!</button>
-            <Button>Button</Button>
+            <Link href="/events" passHref>
+                <Button>Button</Button>
+            </Link>
         </div>
     )
 
