@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import {Button} from '@rskaggs/componentmash-2020';
+import {Button} from '@rskaggs/codemash-2020-component-library';
 
 const HomePage = () => {
     
