@@ -21,7 +21,7 @@
   "homepage": "https://github.com/rskaggs/appmash-2020#readme",
   "dependencies": {
     "@rskaggs/codemash-2020-component-library": "0.0.1--b",
-    "next": "^9.1.6",
+    "next": "^9.5.5",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "styled-components": "^4.4.1"
